@@ -8,4 +8,4 @@ $mahasiswa1->setJenisKelamin("Laki-Laki");
 $mahasiswa1->setProgramStudi("Ilmu Komputer");
 $mahasiswa1->setSemester(4);
 
-$mahasiswa1->getListMahasiswa();
+$mahasiswa1->showMahasiswa();

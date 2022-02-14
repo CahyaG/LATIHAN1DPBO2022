@@ -67,7 +67,7 @@ class Mahasiswa
         return $this->semester;
     }
 
-    public function getListMahasiswa()
+    public function showMahasiswa()
     {
         echo "NIM : " . $this->getNim() . "<br/>";
         echo "Nama : " . $this->getNama() . "<br/>";
