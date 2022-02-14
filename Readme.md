@@ -32,7 +32,7 @@ py [name].py
 ```
 
 ### Penjelasan Latihan
-A
+#### A
 > Contoh sederhana Enkapsulasi kelas Mahasiswa. Terdiri dari getter dan setter serta method tambahan lainnya yang dimana disini ditambahkan method ```showMahasiswa()``` untuk menampilkan isi dari kelas Mahasiswa tersebut
-B
+#### B
 > Latihan ini berisi tentang Tim Sepakbola. Tim dijadikan kelas yang memiiki atribut ```nama```, ```asalNegara```, ```tahunBerdiri```, dan ```pemain```. kelas ini memiliki getter dan setter untuk setiap atribut serta method ```printTim``` untuk menampilkan informasi dari Tim tersebut. Adapun method tambahan lainnya yaitu method ```addPemain```, mengapa saya menambahkan method ini karena saya menggunakan array untuk atribut ```pemain```. Apa bedanya dengan setter Pemain? method ```addPemain``` ini bertujuan untuk menambha pemain baru kedalam array pemain **tanpa mengubah isi array pemain sebelumnya** (append). Sedangkan setter Pemain saat dijalankan akan **menimpa** isi array pemain lama dan menggantinya dengan yang **baru**.
