@@ -4,7 +4,7 @@
 
 Repository ini berisikan Latihan 1 pada mata kuliah Desain Pemrograman Berorientasi Objek tahun 2022. Di dalamnya terdapat beberapa implementasi kelas dan Enkapsulasi dalam bahasa  **C++**, **Java**, **PHP**, dan **Python**.
 
-Modul dapat ditemukkan di [Modul 1 - Implementasi Kelas dan Enkapsulasi](https://docs.google.com/document/d/1ov4hTp_LUAoiY0Vi_ZQiX8AYj9Q1MF4B/edit)
+Modul dapat ditemukan di [Modul 1 - Implementasi Kelas dan Enkapsulasi](https://docs.google.com/document/d/1ov4hTp_LUAoiY0Vi_ZQiX8AYj9Q1MF4B/edit)
 
 ### Usage
 
